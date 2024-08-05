@@ -1,0 +1,5 @@
+defaultProject: rsr-bi-group-dev-c874
+defaultLocation: europe-west1
+defaultDataset: dataform_cnsd_emea
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
